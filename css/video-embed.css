@@ -261,7 +261,9 @@ textarea {
 }
 
 .thumb-title {
-    margin:0;
+    font-size: 12px;
+    padding-top:10px;
+    margin:0px;
 }
 
 .sidebar-video-text {
